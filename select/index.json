@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ナイトルーティーン (cover)",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-02-22T15:53:59.245355Z",
+  "createdAt": "2026-03-11T08:20:54.685058Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,14 @@
       "artist": "Tatsuya Kitani",
       "has_synced": false,
       "path": "select/07_ナイトルーティーン_(cover)_-_Night_Routine_(cover)_Tatsuya_Kitani.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ナイトルーティーン (cover)",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/08_ナイトルーティーン_(cover)_Tatsuya_Kitani.lrc"
     },
     {
       "id": "petitlyrics_1",
